@@ -1,2 +1,2 @@
-# sommerfled_doublet_SU-2-_L
-Sommerfeld Enhancement by vectorial doublet SU(2)_L
+# sommerfled_quintuplet_SU(2)_L
+Sommerfeld Enhancement by vectorial quintuplet SU(2)_L. The calculation of the Sommerfeld Enhancement for dark matter is presented in the file *all contr SE quintuplet ver1.1.nb*, where we solve the Schrödinger equation for a five-dimensional dark matter system within a gauge group. In the file *ML_DM.ipynb*, we graph the solution of the Schrödinger equation and apply machine learning techniques to compare future calculations.
